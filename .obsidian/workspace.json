@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 广域网与接入网技术.md",
+                "file": "7. 网络管理和网络存储.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 广域网与接入网技术"
+              "title": "7. 网络管理和网络存储"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7fdd20f86829b3c6",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. 广域网与接入网技术.md",
+                "file": "7. 网络管理和网络存储.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "5. 广域网与接入网技术 的反向链接列表"
+              "title": "7. 网络管理和网络存储 的反向链接列表"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. 广域网与接入网技术.md",
+                "file": "7. 网络管理和网络存储.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "5. 广域网与接入网技术 的出链列表"
+              "title": "7. 网络管理和网络存储 的出链列表"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. 广域网与接入网技术.md",
+                "file": "7. 网络管理和网络存储.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5. 广域网与接入网技术 的大纲"
+              "title": "7. 网络管理和网络存储 的大纲"
             }
           }
         ]
@@ -185,7 +186,13 @@
   },
   "active": "709b5555b32ec816",
   "lastOpenFiles": [
+    "Pasted image 20260401170349.png",
+    "Pasted image 20260401170236.png",
+    "Pasted image 20260401165932.png",
+    "Pasted image 20260401165907.png",
+    "Pasted image 20260401165640.png",
     "6. 因特网与网络互联技术.md",
+    "7. 网络管理和网络存储.md",
     "5. 广域网与接入网技术.md",
     "未命名 1.base",
     "未命名 2.base",
@@ -196,10 +203,6 @@
     "img/Pasted image 20260401102053.png",
     "img/Pasted image 20260331171012.png",
     "img/Pasted image 20260331170634.png",
-    "img/Pasted image 20260331170506.png",
-    "Pasted image 20260331170348.png",
-    "img/Pasted image 20260331164658.png",
-    "img/1774267117796.png",
     "img",
     "欢迎.md",
     "7. 因特网与网络互联技术 (4).zip",
