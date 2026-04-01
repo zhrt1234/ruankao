@@ -15,7 +15,7 @@
               "state": {
                 "file": "6. 因特网与网络互联技术.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "6. 因特网与网络互联技术"
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fdd20f86829b3c6",
@@ -186,19 +185,18 @@
   },
   "active": "709b5555b32ec816",
   "lastOpenFiles": [
-    "Pasted image 20260401111923.png",
-    "Pasted image 20260401111453.png",
-    "Pasted image 20260401102053.png",
-    "Pasted image 20260401101816.png",
-    "img/Pasted image 20260331171012.png",
+    "5. 广域网与接入网技术.md",
     "6. 因特网与网络互联技术.md",
+    "img/Pasted image 20260401101816.png",
+    "img/Pasted image 20260401111923.png",
+    "img/Pasted image 20260401111453.png",
+    "img/Pasted image 20260401102053.png",
+    "img/Pasted image 20260331171012.png",
     "img/Pasted image 20260331170634.png",
     "img/Pasted image 20260331170506.png",
     "Pasted image 20260331170348.png",
     "img/Pasted image 20260331164658.png",
-    "5. 广域网与接入网技术.md",
     "img/1774267117796.png",
-    "img/1774267821731.png",
     "img",
     "欢迎.md",
     "7. 因特网与网络互联技术 (4).zip",
