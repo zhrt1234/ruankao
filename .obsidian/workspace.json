@@ -11,28 +11,17 @@
             "id": "709b5555b32ec816",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20260401165640.png"
+                "file": "8. 网络安全.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260401165640"
-            }
-          },
-          {
-            "id": "28e67968552a7155",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/Pasted image 20260403114042.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260403114042"
+              "icon": "lucide-file",
+              "title": "8. 网络安全"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7fdd20f86829b3c6",
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20260403114042.png",
+                "file": "8. 网络安全.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pasted image 20260403114042 的反向链接列表"
+              "title": "8. 网络安全 的反向链接列表"
             }
           },
           {
@@ -124,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Pasted image 20260403114042.png",
+                "file": "8. 网络安全.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Pasted image 20260403114042 的出链列表"
+              "title": "8. 网络安全 的出链列表"
             }
           },
           {
@@ -167,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Pasted image 20260403114042.png",
+                "file": "8. 网络安全.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20260403114042 的大纲"
+              "title": "8. 网络安全 的大纲"
             }
           }
         ]
@@ -194,17 +184,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "8f27504b5c6c0198",
+  "active": "709b5555b32ec816",
   "lastOpenFiles": [
-    "8. 网络安全.md",
+    "img/Pasted image 20260401165640.png",
     "img/Pasted image 20260403114042.png",
+    "8. 网络安全.md",
     "img/Pasted image 20260403113925.png",
     "img/Pasted image 20260403113322.png",
     "img/Pasted image 20260403113304.png",
     "img/Pasted image 20260403113252.png",
     "img/Pasted image 20260403113244.png",
     "img/Pasted image 20260403105547.png",
-    "img/Pasted image 20260401165640.png",
     "7. 网络管理和网络存储.md",
     "未命名",
     "img/Pasted image 20260402105149.png",
