@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "656d035ee5a315d9",
+        "id": "26abd827442040b2",
         "type": "tabs",
         "children": [
           {
-            "id": "709b5555b32ec816",
+            "id": "c94aa696ff52fb4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "8. 网络安全.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20260407235137.png"
               },
-              "icon": "lucide-file",
-              "title": "8. 网络安全"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260407235137"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fdd20f86829b3c6",
@@ -184,21 +181,21 @@
       "bases:新建数据库": false
     }
   },
-  "active": "709b5555b32ec816",
+  "active": "8f27504b5c6c0198",
   "lastOpenFiles": [
-    "img/Pasted image 20260401165640.png",
-    "img/Pasted image 20260403114042.png",
     "8. 网络安全.md",
-    "img/Pasted image 20260403113925.png",
-    "img/Pasted image 20260403113322.png",
-    "img/Pasted image 20260403113304.png",
-    "img/Pasted image 20260403113252.png",
-    "img/Pasted image 20260403113244.png",
-    "img/Pasted image 20260403105547.png",
+    "img/Pasted image 20260407235137.png",
+    "img/Pasted image 20260407233734.png",
+    "img/Pasted image 20260407233607.png",
+    "img/Pasted image 20260407233438.png",
+    "img/Pasted image 20260407233425.png",
+    "img/Pasted image 20260407233121.png",
+    "img/Pasted image 20260407232959.png",
+    "img/Pasted image 20260407232718.png",
+    "img/Pasted image 20260407214905.png",
+    "Pasted image 20260407232359.png",
     "7. 网络管理和网络存储.md",
     "未命名",
-    "img/Pasted image 20260402105149.png",
-    "img/Pasted image 20260402105104.png",
     "6. 因特网与网络互联技术.md",
     "5. 广域网与接入网技术.md",
     "未命名 1.base",
