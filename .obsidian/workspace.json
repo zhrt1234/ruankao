@@ -11,14 +11,12 @@
             "id": "75b70ff9bec006f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "4. 局域网技术.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20260413180504.png"
               },
-              "icon": "lucide-file",
-              "title": "4. 局域网技术"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260413180504"
             }
           },
           {
@@ -27,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260413172530.png"
+                "file": "img/Pasted image 20260413172530.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260413172530"
@@ -90,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7fdd20f86829b3c6",
@@ -196,21 +193,20 @@
       "bases:新建数据库": false
     }
   },
-  "active": "75b70ff9bec006f8",
+  "active": "8f27504b5c6c0198",
   "lastOpenFiles": [
-    "Pasted image 20260413180504.png",
-    "Pasted image 20260413175958.png",
-    "Pasted image 20260413173911.png",
-    "Pasted image 20260413173227.png",
-    "img/Pasted image 20260413153412.png",
-    "Pasted image 20260413172530.png",
-    "Pasted image 20260413172954.png",
     "4. 局域网技术.md",
-    "Pasted image 20260413172517.png",
+    "img/Pasted image 20260413180504.png",
+    "img/Pasted image 20260413175958.png",
+    "img/Pasted image 20260413173911.png",
+    "img/Pasted image 20260413173227.png",
+    "img/Pasted image 20260413153412.png",
+    "img/Pasted image 20260413172530.png",
+    "Pasted image 20260413172954.png",
+    "img/Pasted image 20260413172517.png",
     "2. 数据通信技术.md",
     "Pasted image 20260413170522.png",
     "img/Pasted image 20260413170625.png",
-    "img/Pasted image 20260413170436.png",
     "10.1 网络设备基本配置.md",
     "9. 网络规划与设计.md",
     "11. 网络操作系统与应用服务器.md",
