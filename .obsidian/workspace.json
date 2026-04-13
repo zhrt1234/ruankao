@@ -13,25 +13,28 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "img/Pasted image 20260413180504.png"
+                "file": "img/Pasted image 20260413204419.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260413180504"
+              "title": "Pasted image 20260413204419"
             }
           },
           {
-            "id": "81e2baf5145ba772",
+            "id": "270d163472e44d82",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20260413172530.png"
+                "file": "4. 局域网技术.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260413172530"
+              "icon": "lucide-file",
+              "title": "4. 局域网技术"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,27 +196,27 @@
       "bases:新建数据库": false
     }
   },
-  "active": "8f27504b5c6c0198",
+  "active": "270d163472e44d82",
   "lastOpenFiles": [
+    "img/Pasted image 20260413201240.png",
+    "img/Pasted image 20260413204419.png",
+    "img/Pasted image 20260413203747.png",
+    "img/Pasted image 20260413203612.png",
+    "img/Pasted image 20260413203037.png",
+    "img/Pasted image 20260413202935.png",
     "4. 局域网技术.md",
-    "img/Pasted image 20260413180504.png",
-    "img/Pasted image 20260413175958.png",
-    "img/Pasted image 20260413173911.png",
-    "img/Pasted image 20260413173227.png",
-    "img/Pasted image 20260413153412.png",
-    "img/Pasted image 20260413172530.png",
-    "Pasted image 20260413172954.png",
-    "img/Pasted image 20260413172517.png",
+    "Pasted image 20260413203041.png",
+    "Pasted image 20260413203245.png",
+    "Pasted image 20260413203242.png",
+    "Pasted image 20260413202647.png",
     "2. 数据通信技术.md",
-    "Pasted image 20260413170522.png",
-    "img/Pasted image 20260413170625.png",
-    "10.1 网络设备基本配置.md",
-    "9. 网络规划与设计.md",
-    "11. 网络操作系统与应用服务器.md",
-    "8. 网络安全.md",
+    "5. 广域网与接入网技术.md",
     "7. 网络管理和网络存储.md",
     "6. 因特网与网络互联技术.md",
-    "5. 广域网与接入网技术.md",
+    "8. 网络安全.md",
+    "10.1 网络设备基本配置.md",
+    "11. 网络操作系统与应用服务器.md",
+    "9. 网络规划与设计.md",
     "未命名",
     "未命名 1.base",
     "未命名 2.base",
