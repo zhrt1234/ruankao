@@ -4,79 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6c3109f8bf8d3222",
+        "id": "fd77758420809e66",
         "type": "tabs",
         "children": [
           {
-            "id": "270d163472e44d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.3 VLAN配置.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.3 VLAN配置"
-            }
-          },
-          {
-            "id": "4632a272ac896ae6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.4 STP生成树协议配置.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.4 STP生成树协议配置"
-            }
-          },
-          {
-            "id": "b0a072f96949f578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.4 STP生成树协议配置.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.4 STP生成树协议配置"
-            }
-          },
-          {
-            "id": "794abba05817bc50",
+            "id": "78f60a9c1350d020",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "img/Pasted image 20260416002521.png"
+                "file": "img/Pasted image 20260418200537.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260416002521"
+              "title": "Pasted image 20260418200537"
             }
           },
           {
-            "id": "55a53cf67b47695d",
+            "id": "20598f4eb86785d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "10.3 VLAN配置.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20260418231255.png"
               },
-              "icon": "lucide-file",
-              "title": "10.3 VLAN配置"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260418231255"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,22 +195,23 @@
   },
   "active": "8f27504b5c6c0198",
   "lastOpenFiles": [
-    "4. 局域网技术.md",
-    "img/Pasted image 20260416002521.png",
-    "img/Pasted image 20260416002413.png",
-    "img/Pasted image 20260416002146.png",
-    "img/Pasted image 20260416001414.png",
-    "img/Pasted image 20260416001350.png",
-    "Pasted image 20260416001232.png",
-    "img/Pasted image 20260416001310.png",
-    "img/Pasted image 20260416000425.png",
-    "10.4 STP生成树协议配置.md",
-    "img/Pasted image 20260415202113.png",
-    "10.4 GVRP通用属性注册协议.md",
     "10.5 链路聚合.md",
+    "img/Pasted image 20260418231255.png",
+    "img/Pasted image 20260418233321.png",
+    "Pasted image 20260418233003.png",
+    "img/Pasted image 20260418232626.png",
+    "4. 局域网技术.md",
+    "img/Pasted image 20260418232156.png",
+    "img/Pasted image 20260418231751.png",
+    "img/Pasted image 20260418231737.png",
+    "img/Pasted image 20260418231710.png",
+    "img/Pasted image 20260418230914.png",
+    "img/Pasted image 20260418230846.png",
     "10.3 VLAN配置.md",
+    "10.4 STP生成树协议配置.md",
+    "9. 网络规划与设计.md",
+    "10.4 GVRP通用属性注册协议.md",
     "10.2 端口和MAC配置.md",
-    "img/Pasted image 20260414114431.png",
     "2. 数据通信技术.md",
     "5. 广域网与接入网技术.md",
     "7. 网络管理和网络存储.md",
@@ -263,7 +219,6 @@
     "8. 网络安全.md",
     "10.1 网络设备基本配置.md",
     "11. 网络操作系统与应用服务器.md",
-    "9. 网络规划与设计.md",
     "未命名",
     "未命名 1.base",
     "未命名 2.base",
