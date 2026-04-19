@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fd77758420809e66",
+        "id": "6ae5a842c2e6f43f",
         "type": "tabs",
         "children": [
           {
-            "id": "78f60a9c1350d020",
+            "id": "cfc4ee7ffbedc6c6",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "img/Pasted image 20260418200537.png"
+                "file": "img/Pasted image 20260419152811.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260418200537"
-            }
-          },
-          {
-            "id": "20598f4eb86785d1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/Pasted image 20260418231255.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260418231255"
+              "title": "Pasted image 20260419152811"
             }
           }
         ]
@@ -195,19 +183,26 @@
   },
   "active": "8f27504b5c6c0198",
   "lastOpenFiles": [
-    "10.5 链路聚合.md",
-    "img/Pasted image 20260418231255.png",
-    "img/Pasted image 20260418233321.png",
-    "Pasted image 20260418233003.png",
-    "img/Pasted image 20260418232626.png",
-    "4. 局域网技术.md",
-    "img/Pasted image 20260418232156.png",
-    "img/Pasted image 20260418231751.png",
-    "img/Pasted image 20260418231737.png",
-    "img/Pasted image 20260418231710.png",
-    "img/Pasted image 20260418230914.png",
-    "img/Pasted image 20260418230846.png",
+    "img/Pasted image 20260419172524.png",
+    "img/Pasted image 20260419194906.png",
+    "img/Pasted image 20260419195324.png",
+    "img/Pasted image 20260419200258.png",
+    "img/Pasted image 20260419204300.png",
+    "img/Pasted image 20260419205553.png",
+    "img/Pasted image 20260419205653.png",
+    "img/Pasted image 20260419210212.png",
+    "img/Pasted image 20260419210607.png",
+    "img/Pasted image 20260419214236.png",
+    "10.8 静态路由配置.md",
+    "10.9 动态路由配置.md",
+    "img/Pasted image 20260419214556.png",
+    "10.7 路由原理.md",
+    "10.6 DHCP配置.md",
+    "11. 网络操作系统与应用服务器.md",
+    "6. 因特网与网络互联技术.md",
     "10.3 VLAN配置.md",
+    "10.5 链路聚合.md",
+    "4. 局域网技术.md",
     "10.4 STP生成树协议配置.md",
     "9. 网络规划与设计.md",
     "10.4 GVRP通用属性注册协议.md",
@@ -215,10 +210,8 @@
     "2. 数据通信技术.md",
     "5. 广域网与接入网技术.md",
     "7. 网络管理和网络存储.md",
-    "6. 因特网与网络互联技术.md",
     "8. 网络安全.md",
     "10.1 网络设备基本配置.md",
-    "11. 网络操作系统与应用服务器.md",
     "未命名",
     "未命名 1.base",
     "未命名 2.base",
