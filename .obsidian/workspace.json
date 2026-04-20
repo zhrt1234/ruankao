@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "img/Pasted image 20260419152811.png"
+                "file": "img/Pasted image 20260420202752.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260419152811"
+              "title": "Pasted image 20260420202752"
             }
           }
         ]
@@ -183,22 +183,21 @@
   },
   "active": "8f27504b5c6c0198",
   "lastOpenFiles": [
-    "img/Pasted image 20260419172524.png",
-    "img/Pasted image 20260419194906.png",
-    "img/Pasted image 20260419195324.png",
-    "img/Pasted image 20260419200258.png",
-    "img/Pasted image 20260419204300.png",
-    "img/Pasted image 20260419205553.png",
-    "img/Pasted image 20260419205653.png",
-    "img/Pasted image 20260419210212.png",
-    "img/Pasted image 20260419210607.png",
-    "img/Pasted image 20260419214236.png",
-    "10.8 静态路由配置.md",
+    "11. 网络操作系统与应用服务器.md",
     "10.9 动态路由配置.md",
-    "img/Pasted image 20260419214556.png",
+    "img/Pasted image 20260421005846.png",
+    "img/Pasted image 20260420203040.png",
+    "img/Pasted image 20260420202752.png",
+    "Pasted image 20260420202008.png",
+    "Pasted image 20260420201929.png",
+    "img/Pasted image 20260420203702.png",
+    "img/Pasted image 20260420204008.png",
+    "img/Pasted image 20260420204142.png",
+    "img/Pasted image 20260420204337.png",
+    "img/Pasted image 20260420204402.png",
+    "10.8 静态路由配置.md",
     "10.7 路由原理.md",
     "10.6 DHCP配置.md",
-    "11. 网络操作系统与应用服务器.md",
     "6. 因特网与网络互联技术.md",
     "10.3 VLAN配置.md",
     "10.5 链路聚合.md",
