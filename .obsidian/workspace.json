@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260416154048.png"
+                "file": "img/Pasted image 20260416154048.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260416154048"
@@ -183,6 +183,11 @@
   },
   "active": "c4567bdc1fee0e28",
   "lastOpenFiles": [
+    "4. 局域网技术.md",
+    "img/Pasted image 20260416154048.png",
+    "11. 网络操作系统与应用服务器.md",
+    "img/Pasted image 20260416155206.png",
+    "img/Pasted image 20260416163507.png",
     "img/c399b6c330e7ee5a80509ae36b371cea.png",
     "img/Pasted image 20260426235823.png",
     "img/Pasted image 20260426235709.png",
@@ -190,10 +195,6 @@
     "img/Pasted image 20260426235331.png",
     "img/Pasted image 20260426234035.png",
     "img/Pasted image 20260426233827.png",
-    "img/Pasted image 20260426233702.png",
-    "img/Pasted image 20260426233514.png",
-    "img/Pasted image 20260426233255.png",
-    "img/Pasted image 20260426232544.png",
     "10.9 动态路由配置.md",
     "10.8 静态路由配置.md",
     "10.7 路由原理.md",
@@ -210,7 +211,6 @@
     "6. 因特网与网络互联技术.md",
     "5. 广域网与接入网技术.md",
     "2. 数据通信技术.md",
-    "4. 局域网技术.md",
     "10.4 STP生成树协议配置.md",
     "10.2 端口和MAC配置.md",
     "10.5 链路聚合.md",
