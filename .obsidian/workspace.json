@@ -11,12 +11,14 @@
             "id": "73557d14a0b0fc2d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20260427211202.png"
+                "file": "10.8 静态路由配置.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260427211202"
+              "icon": "lucide-file",
+              "title": "10.8 静态路由配置"
             }
           }
         ]
@@ -181,8 +183,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c4567bdc1fee0e28",
+  "active": "73557d14a0b0fc2d",
   "lastOpenFiles": [
+    "10.3 VLAN配置.md",
+    "10.17 VPN.md",
+    "img/Pasted image 20260427211202.png",
     "10.20 IPv6配置.md",
     "10.21 VXLAN.md",
     "img/Pasted image 20260427225930.png",
@@ -195,9 +200,7 @@
     "Pasted image 20260427221339.png",
     "Pasted image 20260427221319.png",
     "img/Pasted image 20260427221245.png",
-    "img/Pasted image 20260427221216.png",
     "10.18 MPLS协议.md",
-    "10.3 VLAN配置.md",
     "4. 局域网技术.md",
     "7. 网络管理和网络存储.md",
     "8. 网络安全.md",
@@ -208,7 +211,6 @@
     "10.8 静态路由配置.md",
     "10.7 路由原理.md",
     "10.6 DHCP配置.md",
-    "10.17 VPN.md",
     "10.16 NAT.md",
     "10.15 路由策略.md",
     "10.14 策略路由.md",
