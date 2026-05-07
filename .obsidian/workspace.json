@@ -8,18 +8,33 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b79c0856262b34be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "案例题集合.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "案例题集合"
+            }
+          },
+          {
             "id": "7aeef96c6413533a",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "img/Pasted image 20260501232758.png"
+                "file": "img/Pasted image 20260507202016.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260501232758"
+              "title": "Pasted image 20260507202016"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,39 +199,39 @@
   "active": "c4567bdc1fee0e28",
   "lastOpenFiles": [
     "10.9 动态路由配置.md",
-    "10.11 BGP边界网关协议（考的多）.md",
-    "10.12 VVRP虚拟路由协议.md",
-    "6. 因特网与网络互联技术.md",
-    "7. 网络管理和网络存储.md",
     "案例题集合.md",
+    "10.8 静态路由配置.md",
+    "10.1 网络设备基本配置.md",
+    "8. 网络安全.md",
     "4. 局域网技术.md",
-    "img/Pasted image 20260503002939.png",
+    "img/Pasted image 20260507212318.png",
+    "img/Pasted image 20260507212245.png",
+    "Pasted image 20260507201943.png",
+    "img/Pasted image 20260507202016.png",
+    "img/Pasted image 20260506225119.png",
+    "10.17 VPN.md",
+    "10.12 VVRP虚拟路由协议.md",
+    "img/Pasted image 20260506230439.png",
+    "img/Pasted image 20260506230429.png",
+    "9. 网络规划与设计.md",
+    "5. 广域网与接入网技术.md",
+    "6. 因特网与网络互联技术.md",
     "img/Pasted image 20260501232758.png",
+    "10.11 BGP边界网关协议（考的多）.md",
+    "7. 网络管理和网络存储.md",
+    "img/Pasted image 20260503002939.png",
     "img/Pasted image 20260501234427.png",
     "10.15 路由策略.md",
     "10.14 策略路由.md",
     "10.13 ACL访问控制列表.md",
-    "8. 网络安全.md",
     "10.2 端口和MAC配置.md",
-    "10.17 VPN.md",
-    "9. 网络规划与设计.md",
-    "img/Pasted image 20260503002844.png",
-    "img/Pasted image 20260503002132.png",
     "10.16 NAT.md",
-    "10.8 静态路由配置.md",
-    "img/Pasted image 20260502002842.png",
-    "img/Pasted image 20260501234914.png",
-    "img/Pasted image 20260501234903.png",
-    "5. 广域网与接入网技术.md",
     "10.20 IPv6配置.md",
-    "img/Pasted image 20260427152656.png",
-    "img/Pasted image 20260427225930.png",
     "10.21 VXLAN.md",
     "10.19 MPLS VPN.md",
     "10.18 MPLS协议.md",
     "11. 网络操作系统与应用服务器.md",
     "10.7 路由原理.md",
-    "10.6 DHCP配置.md",
-    "10.10 路由引入.md"
+    "10.6 DHCP配置.md"
   ]
 }
